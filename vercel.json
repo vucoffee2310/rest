@@ -1,4 +1,4 @@
 {
   "outputDirectory": false,
-  "buildCommand": "bash test.sh && pip install -r requirements.txt"
+  "installCommand": "yum install -y python3-pip wget && mkdir public"
 }
