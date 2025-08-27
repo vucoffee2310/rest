@@ -1,3 +1,3 @@
 {
-  "buildCommand": "bash test.sh"
+  "buildCommand": "bash test.sh && pip install -r requirements.txt"
 }
